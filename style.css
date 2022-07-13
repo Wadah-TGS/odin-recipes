@@ -1,0 +1,15 @@
+h1{
+	color:hsl(330, 50%, 55%);
+	font-family:monospace, sans-serif;
+	text-align: center;
+}
+ul,
+a {
+	color: hsl(150, 50%, 60%);
+	font-family: Papyrus, sans-serif;
+	text-decoration: none;
+}
+
+* {
+background-color: hsl(270, 100%, 95%);
+}

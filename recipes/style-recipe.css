@@ -1,0 +1,16 @@
+* {
+background-color: hsl(270, 100%, 95%);
+}
+h2 {
+	color:rgb(153, 0, 204);
+	font-family:Garamond ;
+}
+
+p,
+ul,
+ol
+
+{
+	font-family:Helvetica ;
+	font-size: 18px;
+}
